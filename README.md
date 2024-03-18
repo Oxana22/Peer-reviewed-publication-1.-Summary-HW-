@@ -1,5 +1,6 @@
 # github---Python
 Peer-reviewed publication 1. Summary (HW)
+
             Python as Multi Paradigm Programming Language article by Nimit Thaker and Abhilash Shukla.
  
   This paper will revolve around Python as a Multi-Paradigm Programming Language and about how python has evolved to become the best suited and best opted language for developing almost all kinds of Applications. Python has become the most grossing and highly popular programming language.
